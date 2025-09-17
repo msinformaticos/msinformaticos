@@ -2,12 +2,12 @@ Bienvenido a MSINFORMÁTICOS
 Tu aliado en soluciones informáticas en Tuxtla Gutiérrez, Chiapas. Con más de 20 años de experiencia, en MSINFORMÁTICOS transformamos problemas tecnológicos en soluciones rápidas y confiables, directo en tu domicilio.
 
 Nuestros servicios incluyen:
-🔧 Mantenimiento y limpieza
-💻 Formateo e instalación de sistemas
-🌐 Redes e internet estables
-🖥️ Soporte técnico a domicilio
-🛠️ Elaboración de sistemas
-📦 Office OEM original
+🔧 Mantenimiento y limpieza <BR>
+💻 Formateo e instalación de sistemas <BR>
+🌐 Redes e internet estables <BR>
+🖥️ Soporte técnico a domicilio <BR>
+🛠️ Elaboración de sistemas <BR>
+📦 Office OEM original <BR>
 
 ✅ Más de 20 años de experiencia en Tuxtla Gutiérrez.
 
