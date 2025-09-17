@@ -11,6 +11,6 @@ Nuestros servicios incluyen:
 
 ✅ Más de 20 años de experiencia en Tuxtla Gutiérrez.
 
-<img width="74" height="75" alt="image" href="http://www.facebook.com/msinformaticosTGZ" src="https://github.com/user-attachments/assets/10ee8fdd-60f1-45fd-aa41-fcdc297279d7" />
+<img width="74" height="75" alt="image" src="https://github.com/user-attachments/assets/10ee8fdd-60f1-45fd-aa41-fcdc297279d7" href="http://www.facebook.com/msinformaticosTGZ"/>
 
 📲 961 708 1471 – Tu compu como nueva, ¡sin salir de casa!
