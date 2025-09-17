@@ -10,7 +10,7 @@ Nuestros servicios incluyen:
 📦 Office OEM original
 
 ✅ Más de 20 años de experiencia en Tuxtla Gutiérrez.
-<img width="74" height="75" alt="image" src="https://github.com/user-attachments/assets/10ee8fdd-60f1-45fd-aa41-fcdc297279d7" />
-http://www.facebook.com/msinformaticosTGZ
+
+<img width="74" height="75" alt="image" href="http://www.facebook.com/msinformaticosTGZ" src="https://github.com/user-attachments/assets/10ee8fdd-60f1-45fd-aa41-fcdc297279d7" />
 
 📲 961 708 1471 – Tu compu como nueva, ¡sin salir de casa!
